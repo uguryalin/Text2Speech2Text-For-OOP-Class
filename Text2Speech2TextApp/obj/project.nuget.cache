@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rw/eSJqmuCU=",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\UGUR\\oop projects\\Text2Speech2Text-For-OOP-Class\\Text2Speech2TextApp\\Text2Speech2TextApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.speech\\10.0.8\\system.speech.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
